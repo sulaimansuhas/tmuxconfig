@@ -1,0 +1,40 @@
+------------------[Neovim Plugs]------------------
+https://github.com/echasnovski/mini.ai?tab=readme-ov-file
+https://github.com/echasnovski/mini.nvim
+https://github.com/HiPhish/rainbow-delimiters.nvim
+https://github.com/echasnovski/mini.operators
+------------------[Databse reading]------------------
+https://uvdn7.github.io/notes-on-the-foundationdb-paper/
+https://www.foundationdb.org/files/fdb-paper.pdf
+https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html
+------------------[C++ and systems readings]------------------
+https://unixism.net/loti/async_intro.html#
+https://pabloariasal.github.io/2022/11/12/couring-1/
+------------------[Jiujutsu]------------------
+https://v5.chriskrycho.com/essays/jj-init/
+https://steveklabnik.github.io/jujutsu-tutorial/introduction/how-to-read.html
+------------------[Tailscale]------------------
+https://tailscale.com/blog/how-tailscale-works
+https://tailscale.com/blog/how-nat-traversal-works
+------------------[Youtube vids]------------------
+https://www.youtube.com/watch?v=T4rKaqjUXXs
+https://www.youtube.com/watch?v=30jNsCVLpAE
+https://www.youtube.com/watch?v=OyfBQmvr2Hc
+------------------[spotify blog]------------------
+https://engineering.atspotify.com/2017/10/big-data-processing-at-spotify-the-road-to-scio-part-1/
+https://engineering.atspotify.com/2016/02/spotifys-event-delivery-the-road-to-the-cloud-part-i/
+https://engineering.atspotify.com/2024/12/building-confidence-a-case-study-in-how-to-create-confidence-scores-for-genai-applications/
+https://engineering.atspotify.com/2024/10/how-we-generated-millions-of-content-annotations/
+------------------[misc]------------------
+https://wip.jroi.dev/home-n-links.html
+https://blog.tealok.tech/post/docker-compose-isnt-enough/
+https://medium.com/solo-io/unik-build-and-run-unikernels-with-ease-2c7344115cbb
+https://aws.amazon.com/blogs/hpc/in-the-search-for-performance-theres-more-than-one-way-to-build-a-network/
+https://blog.bytebytego.com/p/how-statsig-streams-1-trillion-events
+https://analyticsindiamag.com/ai-features/why-google-cant-let-go-of-golang/
+https://refactoring.guru/design-patterns/builder
+https://underjord.io/voice-activity-detection-elixir-membrane.html
+https://lucvandonkersgoed.com/2024/11/16/making-aws-news-stupid-fast-with-smart-caching/
+
+
+
